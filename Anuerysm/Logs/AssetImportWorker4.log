@@ -1,0 +1,1203 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.32f1 (c8300dc0a3fa) revision 13119501'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Education' Language: 'en' Physical Memory: 32473 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.32f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+C:/Users/malonhol000/Documents/UnityProjects/Aneurysm/Anuerysm
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+53181
+Successfully changed project path to: C:/Users/malonhol000/Documents/UnityProjects/Aneurysm/Anuerysm
+C:/Users/malonhol000/Documents/UnityProjects/Aneurysm/Anuerysm
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [19088] Host "[IP] 10.52.79.155 [Port] 0 [Flags] 2 [Guid] 2106155236 [EditorId] 2106155236 [Version] 1048832 [Id] WindowsEditor(7,786LAB133-20) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [19088] Host "[IP] 10.52.79.155 [Port] 0 [Flags] 2 [Guid] 2106155236 [EditorId] 2106155236 [Version] 1048832 [Id] WindowsEditor(7,786LAB133-20) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+Refreshing native plugins compatible for Editor in 11.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.32f1 (c8300dc0a3fa)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.32f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/malonhol000/Documents/UnityProjects/Aneurysm/Anuerysm/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 (ID=0x2504)
+    Vendor:   NVIDIA
+    VRAM:     12115 MB
+    Driver:   32.0.15.5612
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.32f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.32f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.32f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56020
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.32f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.32f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.32f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.32f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.32f1/Editor/Data/PlaybackEngines/VisionOSPlayer/UnityEditor.VisionOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.32f1/Editor/Data/PlaybackEngines/AppleTVSupport/UnityEditor.AppleTV.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.32f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.32f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.32f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 0.014188 seconds.
+- Loaded All Assemblies, in  0.315 seconds
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for AppleTV target not found
+Failed to load: C:/Program Files/Unity/Hub/Editor/2022.3.32f1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
+Native extension for VisionOS target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.306 seconds
+Domain Reload Profiling: 621ms
+	BeginReloadAssembly (90ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (0ms)
+	RebuildCommonClasses (27ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (56ms)
+	LoadAllAssembliesAndSetupDomain (131ms)
+		LoadAssemblies (93ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (127ms)
+			TypeCache.Refresh (126ms)
+				TypeCache.ScanAssembly (113ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (306ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (256ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (112ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (96ms)
+			ProcessInitializeOnLoadMethodAttributes (42ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.682 seconds
+Refreshing native plugins compatible for Editor in 4.65 ms, found 3 plugins.
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Failed to load: C:/Program Files/Unity/Hub/Editor/2022.3.32f1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
+Native extension for VisionOS target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.888 seconds
+Domain Reload Profiling: 1569ms
+	BeginReloadAssembly (136ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (20ms)
+	RebuildCommonClasses (28ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (471ms)
+		LoadAssemblies (314ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (239ms)
+			TypeCache.Refresh (204ms)
+				TypeCache.ScanAssembly (185ms)
+			ScanForSourceGeneratedMonoScriptInfo (23ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (888ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (706ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (42ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (61ms)
+			ProcessInitializeOnLoadAttributes (353ms)
+			ProcessInitializeOnLoadMethodAttributes (243ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 5.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6256 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 100 unused Assets / (3.6 MB). Loaded Objects now: 6727.
+Memory consumption went from 297.6 MB to 294.0 MB.
+Total: 4.524300 ms (FindLiveObjects: 0.489100 ms CreateObjectMapping: 0.219600 ms MarkObjects: 3.069500 ms  DeleteObjects: 0.744600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/UnityChanControlScriptWithRgidBody.cs: e6ad178b4f24d3fb6df560f63a9af963 -> f93a5d4c41203833745f195667a8d5db
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/SplashScreen.cs: 4f15bdeda5786e36b26ec9f1ee28d049 -> 6c6c37897b93bb9a6c31f7924f0ecb9c
+  custom:scripting/monoscript/fileName/SpringManager.cs: 63fae3f257b6da23647eb30a46508886 -> 2305b639182e6e0828314a19c0d5a7d0
+  custom:scripting/monoscript/fileName/IdleChanger.cs: d7ff7cacbc969432e0ab5d0a90b33d30 -> e2174b8c7f90f2d49a9c826bcd31f625
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/SpringBone.cs: dbd48510a58b6cedaa07b1e00b932e85 -> 989f2d558f1c00c3b0c7133fbe676485
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/SpringCollider.cs: 1aaeb07b34dddf2d3419a09c4f27fa99 -> 611015d43f843d0a8a816baeac1892d3
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/RandomWind.cs: 940d706628800ba0016ad2dda173d059 -> be31d0f94b239f7e0b4b46a319d3ba3b
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/AutoBlink.cs: 80cab70de5be63762aa7ba69af305dea -> e719fce70f46c90402d12ff39a4f7365
+  custom:scripting/monoscript/fileName/IKCtrlRightHand.cs: 39509998bd9a5b13b4e2590ad828f9fa -> 3af9bf3fc39d24bcbc842065abcef555
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/FaceUpdate.cs: 23603e6fd54448a03c5b0e5bc0ec0eaa -> cab0fb8c8d65ae2e8ae8c5b3a02b4d4b
+  custom:scripting/monoscript/fileName/CameraController.cs: 8e751b4971e7eade8101031695d810d5 -> 237eb1ea9a4c37f8fb087ea1161536eb
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/ThirdPersonCamera.cs: f37302e2a4ffce4a1ce32e6a1179ee5e -> 35de7e6ba15e5b9fdadcda09253e7a10
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/CreateLocatorHere.cs: 2dbcc4bdf7bee4c4e6b63af51f1aaa17 -> eabea7a256020b5a9700a1f9ac468b65
+========================================================================
+Received Import Request.
+  Time since last request: 3535.038094 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1003.wav
+  artifactKey: Guid(1ec434e75e64c4dc7ab389969fcfaa46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1003.wav using Guid(1ec434e75e64c4dc7ab389969fcfaa46) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'a28cf4255baa1e89655c125e6c311102') in 0.092466 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1020.wav
+  artifactKey: Guid(1fd7d2c354c86467cb0e57f86e88cdb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1020.wav using Guid(1fd7d2c354c86467cb0e57f86e88cdb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '929ab543ad45c4754bd53ad93e4a5822') in 0.007131 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1024.wav
+  artifactKey: Guid(91c68039ec5d440779d554f2876d84cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1024.wav using Guid(91c68039ec5d440779d554f2876d84cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '6b8f3c965162a2be0fb4aa16ba86f28c') in 0.015952 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.196377 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1027.wav
+  artifactKey: Guid(581542c602e864d47b5f907484db9c1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1027.wav using Guid(581542c602e864d47b5f907484db9c1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '13f916b2e1d273819334c42cae6c9b42') in 0.007390 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1036.wav
+  artifactKey: Guid(84ee1f63e62794ce592a506085b8dd87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1036.wav using Guid(84ee1f63e62794ce592a506085b8dd87) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'c4c0a9dd0036affd5be8d51c3603af8b') in 0.017823 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.009030 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1039.wav
+  artifactKey: Guid(d0e506a921cc445d6bac45b0420624a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1039.wav using Guid(d0e506a921cc445d6bac45b0420624a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '1c81d03083d0dcb1500aef3f13db7414') in 0.007200 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1049.wav
+  artifactKey: Guid(61e231e4dc4ed4ea59ebc0338bb2d7be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1049.wav using Guid(61e231e4dc4ed4ea59ebc0338bb2d7be) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '2fde135a20ca3f1c70ac6456139c3f50') in 0.008843 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1056.wav
+  artifactKey: Guid(c61a0e3b19b8243ee94b855392f15b66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1056.wav using Guid(c61a0e3b19b8243ee94b855392f15b66) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '205ff85c4ff6bf6b634aa4cbe21fc2c5') in 0.016601 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1054.wav
+  artifactKey: Guid(d9cd84486e3274072b50099cd12353ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1054.wav using Guid(d9cd84486e3274072b50099cd12353ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'e94bae7b86b238f2d1e9d71efaefec0e') in 0.007992 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.220705 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1063.wav
+  artifactKey: Guid(6b7993f1f34824d1890a2301f1c5df1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1063.wav using Guid(6b7993f1f34824d1890a2301f1c5df1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '6d1a02e29c9feda6e752c65e8b94078e') in 0.006604 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1073.wav
+  artifactKey: Guid(e76eefaf06db24f2c9587423ae86fc63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1073.wav using Guid(e76eefaf06db24f2c9587423ae86fc63) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'aff59c2d72293d7f75025cb346a64c4b') in 0.006485 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1072.wav
+  artifactKey: Guid(ecd0672649a824fe187754a9585791a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1072.wav using Guid(ecd0672649a824fe187754a9585791a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'f3403b8dc0c6a1da62311f1c9d255b14') in 0.006164 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1074.wav
+  artifactKey: Guid(c47790e1f2f3e4f4b93384f4cf49c07d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1074.wav using Guid(c47790e1f2f3e4f4b93384f4cf49c07d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '48b200be307f2b2341b49ac92b89f095') in 0.006186 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.281908 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1087.wav
+  artifactKey: Guid(145fb24c1947b4b3eaa88beb070aca86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1087.wav using Guid(145fb24c1947b4b3eaa88beb070aca86) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '009827f34f31dcc39356c7b4ef78a77a') in 0.006579 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1105.wav
+  artifactKey: Guid(4cc7c94a3d8064a978dc9aea2006ab2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1105.wav using Guid(4cc7c94a3d8064a978dc9aea2006ab2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '59e59a3d472f94b820f9de4f3c7f1718') in 0.006308 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1100.wav
+  artifactKey: Guid(28f7e076ccd5640da8fad9bcc74efe58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1100.wav using Guid(28f7e076ccd5640da8fad9bcc74efe58) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '9484283a5047b38986ee5f266b0877f2') in 0.006043 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1117.wav
+  artifactKey: Guid(2c73740b2efca45b1a4525f7a0f4f361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1117.wav using Guid(2c73740b2efca45b1a4525f7a0f4f361) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '4c91ddcc42c284309a37a9a15b8dedd0') in 0.006278 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1097.wav
+  artifactKey: Guid(a1fac12ede1df41c681ab108febfa81b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1097.wav using Guid(a1fac12ede1df41c681ab108febfa81b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '74a02839f46deaab39707b46e0d9c4c5') in 0.006082 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1109.wav
+  artifactKey: Guid(106a55af179f44561b6fb5c7915c83b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1109.wav using Guid(106a55af179f44561b6fb5c7915c83b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'fc61be29b93d858cabc8a2fdd325b825') in 0.006507 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.245549 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1123.wav
+  artifactKey: Guid(6cd1d8c0fbc504b9aaded01cea637c17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1123.wav using Guid(6cd1d8c0fbc504b9aaded01cea637c17) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'ef8b1c2e4a6d7faeebcbc6b46f1b3d1b') in 0.007027 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1133.wav
+  artifactKey: Guid(f117433c1e4844814be10100c21b0e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1133.wav using Guid(f117433c1e4844814be10100c21b0e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '0f6b0366685ac959ad4e776f43a1d754') in 0.007540 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1140.wav
+  artifactKey: Guid(3c6fcd461c70046098c42b43078be8c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1140.wav using Guid(3c6fcd461c70046098c42b43078be8c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '38ea004a2baee4a0185607e3dd689ec3') in 0.006738 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1144.wav
+  artifactKey: Guid(e69d8e2713b28425084ff4e3ea26b2cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1144.wav using Guid(e69d8e2713b28425084ff4e3ea26b2cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'af2099d27acd4f522e9cdbdd5a5c836e') in 0.005982 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.270034 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1147.wav
+  artifactKey: Guid(e128db8093507445fae0101ad99f5c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1147.wav using Guid(e128db8093507445fae0101ad99f5c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '985d4b7a7594027f3e887b05f2ebc79a') in 0.006588 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1162.wav
+  artifactKey: Guid(adb39d7349e2747168eeb51f1b437c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1162.wav using Guid(adb39d7349e2747168eeb51f1b437c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '15b8cc1eb4fbc2e6336e0a671021506b') in 0.006002 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1169.wav
+  artifactKey: Guid(40a909895797f4371b61f01586a10a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1169.wav using Guid(40a909895797f4371b61f01586a10a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '7bc70b8bd0e24bcf80bb209e0584a664') in 0.005655 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1174.wav
+  artifactKey: Guid(d895b3e88867749eb80ec257e12278bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1174.wav using Guid(d895b3e88867749eb80ec257e12278bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'adca0aade18f03ff151830286d4c80f8') in 0.006820 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1177.wav
+  artifactKey: Guid(1cf145ba95b7c4434930f6ab3cf03dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1177.wav using Guid(1cf145ba95b7c4434930f6ab3cf03dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'e06df84b37e14287ebb8efb2872b6587') in 0.007134 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1171.wav
+  artifactKey: Guid(b74b7b65252e34758b690a31b51ca39b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1171.wav using Guid(b74b7b65252e34758b690a31b51ca39b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'a27f9eb0181476f446a704d8ff5ade44') in 0.006041 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.244266 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1183.wav
+  artifactKey: Guid(32c66f57888d14cc7a1c33026a6a6dee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1183.wav using Guid(32c66f57888d14cc7a1c33026a6a6dee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '0d4e55579596e5cd6b3919279f35a639') in 0.007243 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1191.wav
+  artifactKey: Guid(7438894ace0984034991902fdba854a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1191.wav using Guid(7438894ace0984034991902fdba854a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '3d67499bac11b939f74c2aa39a7e0da3') in 0.005626 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1204.wav
+  artifactKey: Guid(c94ac6646d3034cf3a1e25013234a21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1204.wav using Guid(c94ac6646d3034cf3a1e25013234a21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '130082dd6be9c4a466cbb93416c74254') in 0.007494 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1205.wav
+  artifactKey: Guid(c10f671659fcc437fb0394052b91cb74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1205.wav using Guid(c10f671659fcc437fb0394052b91cb74) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '5607b54aa30837489a48fcf21de7c92e') in 0.006349 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1213.wav
+  artifactKey: Guid(aa7798d801bda434681247185f733fdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1213.wav using Guid(aa7798d801bda434681247185f733fdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '3db7cdf6ca2e9fc741a57cb6bcc71d0b') in 0.006506 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1202.wav
+  artifactKey: Guid(f46e3dae66548461db72dc7c716ebf21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1202.wav using Guid(f46e3dae66548461db72dc7c716ebf21) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '257351b576da8b3e0bbd796dddf98e37') in 0.009061 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.252031 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1217.wav
+  artifactKey: Guid(11600f07207a940a0a821026f83729ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1217.wav using Guid(11600f07207a940a0a821026f83729ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'cc85c6263294ca8eec162f5a87b38425') in 0.007811 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1234.wav
+  artifactKey: Guid(33862593e801147b594c751747c409ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1234.wav using Guid(33862593e801147b594c751747c409ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'd796224a8dbbd12bd4625fffe935a9f6') in 0.006510 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1226.wav
+  artifactKey: Guid(7ae964fefc0b946e2bfc1d4f9e859adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1226.wav using Guid(7ae964fefc0b946e2bfc1d4f9e859adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'c4ca23641446b71fcb69898c0c6b13cc') in 0.006112 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1231.wav
+  artifactKey: Guid(368c4c2d049084d2ca3f6f6e2419640c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1231.wav using Guid(368c4c2d049084d2ca3f6f6e2419640c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '13e6a68fc3c19436b1117780bf6bee16') in 0.006077 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.269273 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1241.wav
+  artifactKey: Guid(72259f6eb595444049823c67a6d4ccec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1241.wav using Guid(72259f6eb595444049823c67a6d4ccec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '77a1566878bfadf13aa9f480ef038ab2') in 0.006951 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1247.wav
+  artifactKey: Guid(a5332241698074fdd996dc538728a158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1247.wav using Guid(a5332241698074fdd996dc538728a158) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '9aaa7457cfb6501c23b6781116303f73') in 0.008528 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1276.wav
+  artifactKey: Guid(78088877925ce416590c4cb16c0b9026) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1276.wav using Guid(78088877925ce416590c4cb16c0b9026) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '4350bf87c7cfa213eaf3f68ab747c529') in 0.006040 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1260.wav
+  artifactKey: Guid(758aeeac2b9a64f75834c6cc74fccf1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1260.wav using Guid(758aeeac2b9a64f75834c6cc74fccf1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '704b38e91d8ced42c471a8d0514f9a01') in 0.006369 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1257.wav
+  artifactKey: Guid(0bcf363c116234b2eb593bac01a170d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1257.wav using Guid(0bcf363c116234b2eb593bac01a170d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '478b402d232485ef00e740ef5bdd6f9b') in 0.006933 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1259.wav
+  artifactKey: Guid(872311653da1a4d1f90f26302192edd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1259.wav using Guid(872311653da1a4d1f90f26302192edd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'e94220a58a6c6917fa4cfa044b09531a') in 0.006285 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.194120 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1277.wav
+  artifactKey: Guid(e094e659bf7174fe589781a96c55ddda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1277.wav using Guid(e094e659bf7174fe589781a96c55ddda) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '9375c813ab3d19bcae4104b9aca55201') in 0.006520 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1290.wav
+  artifactKey: Guid(514f2543b81e74c53ac1d9b5bc4fe40c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1290.wav using Guid(514f2543b81e74c53ac1d9b5bc4fe40c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'fd7cd99a029dd4e7a38d2043cbf1c8a2') in 0.006412 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1286.wav
+  artifactKey: Guid(a43af34cb93f54adb88bfcbe7af42114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1286.wav using Guid(a43af34cb93f54adb88bfcbe7af42114) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'c79fc5737f7890cb457ea9fdce3c5fe4') in 0.006979 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1307.wav
+  artifactKey: Guid(38fcae0611a884e04bae248012bfd15e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1307.wav using Guid(38fcae0611a884e04bae248012bfd15e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'fb58400972695461f6fcb992f9b6012f') in 0.007618 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1309.wav
+  artifactKey: Guid(79403fd11d32747d995261b20982f6fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1309.wav using Guid(79403fd11d32747d995261b20982f6fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'e6e09768286d929de1aaca5fae152cbc') in 0.005594 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1305.wav
+  artifactKey: Guid(f91aae2a30b204657bd6d31832b3b4b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1305.wav using Guid(f91aae2a30b204657bd6d31832b3b4b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '4059e21d1173d6c3be2947c92f5f1802') in 0.005771 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.179609 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1313.wav
+  artifactKey: Guid(0bae8891cbcc04f209aea51d1233f87d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1313.wav using Guid(0bae8891cbcc04f209aea51d1233f87d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '4c556d4b234374644d6ed13ae4dbf424') in 0.006960 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1319.wav
+  artifactKey: Guid(c46659c4399554ccf87d41cc44b24ee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1319.wav using Guid(c46659c4399554ccf87d41cc44b24ee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '2be32ff0a69e2e71a55f47cb19699ee6') in 0.006956 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1335.wav
+  artifactKey: Guid(eb2e01d7fef4348bf97a8c9cfa2d4cda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1335.wav using Guid(eb2e01d7fef4348bf97a8c9cfa2d4cda) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '5b605ce82e4a04bd6a70a55ab2c064d7') in 0.006680 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1340.wav
+  artifactKey: Guid(51791f91b88ea494cbd397f882da7585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1340.wav using Guid(51791f91b88ea494cbd397f882da7585) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '442bb21830e1a2b656151b07387078cf') in 0.006761 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1325.wav
+  artifactKey: Guid(300fd04524d484f339272b325cf2261c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/univ1325.wav using Guid(300fd04524d484f339272b325cf2261c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '9b6a004ab39b9dcab3426fc900c24c4a') in 0.006972 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 19.624482 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/unity-chan_voice_list.txt
+  artifactKey: Guid(f9b76365a56ab41f4b65323ef05d3821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Audio/Voice/unity-chan_voice_list.txt using Guid(f9b76365a56ab41f4b65323ef05d3821) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '340795b325616bbf3bf738ec44692a99') in 0.000987 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 8.399350 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Art/Animations
+  artifactKey: Guid(74bcda471467838418c210cd804e4978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Art/Animations using Guid(74bcda471467838418c210cd804e4978) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '685f74a954dc9cfd898b8b6ffbe21e2a') in 0.000474 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.073893 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Art/Animations/unitychan_ARpose1.fbx
+  artifactKey: Guid(e8397bfde2758f942a04edaaf7ad57ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Art/Animations/unitychan_ARpose1.fbx using Guid(e8397bfde2758f942a04edaaf7ad57ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'e1dfd690bb000601ab0ee0e3850acdec') in 0.024335 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 300
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Art/Animations/unitychan_WALK00_B.fbx
+  artifactKey: Guid(20fd7934e77f68e4983c9c0fe97c7117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Art/Animations/unitychan_WALK00_B.fbx using Guid(20fd7934e77f68e4983c9c0fe97c7117) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '8666e5bcc2d70afb087fc4c305637a54') in 3.329772 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 330
+========================================================================
+Received Import Request.
+  Time since last request: 9.174193 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Art/Animations/FaceAnimation
+  artifactKey: Guid(16657e62a84c243128b02e614c3e11a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Art/Animations/FaceAnimation using Guid(16657e62a84c243128b02e614c3e11a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '70db2b3cbf4728320ee69aca741d8016') in 0.000600 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.096986 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Art/Animations/Animators
+  artifactKey: Guid(c8838c29f8f5f47ce889e797aef95a3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Art/Animations/Animators using Guid(c8838c29f8f5f47ce889e797aef95a3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '6fa2bea5793d0082ebe2ca41b2c0f35c') in 0.000497 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.864025 seconds.
+  path: Assets/Female Locomotion Pack/Unity-chan! Model/Art/Animations/Animators/UnityChanActionCheck.controller
+  artifactKey: Guid(212b3a957fa7bee41a0bf8c3b14ce293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Female Locomotion Pack/Unity-chan! Model/Art/Animations/Animators/UnityChanActionCheck.controller using Guid(212b3a957fa7bee41a0bf8c3b14ce293) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '410d6144345b69ecf33e0890a6fb0325') in 0.073969 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.593 seconds
+Refreshing native plugins compatible for Editor in 4.79 ms, found 3 plugins.
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Failed to load: C:/Program Files/Unity/Hub/Editor/2022.3.32f1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
+Native extension for VisionOS target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.511 seconds
+Domain Reload Profiling: 2102ms
+	BeginReloadAssembly (220ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (31ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (62ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (27ms)
+	LoadAllAssembliesAndSetupDomain (304ms)
+		LoadAssemblies (329ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (62ms)
+			TypeCache.Refresh (17ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (32ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1511ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (451ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (43ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (62ms)
+			ProcessInitializeOnLoadAttributes (314ms)
+			ProcessInitializeOnLoadMethodAttributes (25ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (47ms)
+Refreshing native plugins compatible for Editor in 5.15 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5909 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 73 unused Assets / (3.6 MB). Loaded Objects now: 6860.
+Memory consumption went from 256.3 MB to 252.8 MB.
+Total: 4.207500 ms (FindLiveObjects: 0.462200 ms CreateObjectMapping: 0.174000 ms MarkObjects: 2.978300 ms  DeleteObjects: 0.592200 ms)
+
+Prepare: number of updated asset objects reloaded= 10
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/UnityChanControlScriptWithRgidBody.cs: e6ad178b4f24d3fb6df560f63a9af963 -> e6270e628b445f45f3b5d2688e9f7023
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/SplashScreen.cs: 4f15bdeda5786e36b26ec9f1ee28d049 -> 0755d608089cbc7d0e953ccbc748a0c5
+  custom:scripting/monoscript/fileName/SpringManager.cs: 63fae3f257b6da23647eb30a46508886 -> da39798abae1af426996aad29ffd5776
+  custom:scripting/monoscript/fileName/IdleChanger.cs: d7ff7cacbc969432e0ab5d0a90b33d30 -> 0d42658b2b153f87462fd4e5e96a13ee
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/SpringBone.cs: dbd48510a58b6cedaa07b1e00b932e85 -> c42174da46e34ca23f01039571bd21a7
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/SpringCollider.cs: 1aaeb07b34dddf2d3419a09c4f27fa99 -> b95717af7a1b7c4f1cedbda2e4581451
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/RandomWind.cs: 940d706628800ba0016ad2dda173d059 -> 2f8fa34249abdeb18b156658f50cf6b0
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/AutoBlink.cs: 80cab70de5be63762aa7ba69af305dea -> c4896b0bc763e45116fcb71524820395
+  custom:scripting/monoscript/fileName/IKCtrlRightHand.cs: 39509998bd9a5b13b4e2590ad828f9fa -> af5a857eb9c61b41538bf9623698a2d1
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/FaceUpdate.cs: 23603e6fd54448a03c5b0e5bc0ec0eaa -> 936c881d460b8437fb80f048d1ed5d71
+  custom:scripting/monoscript/fileName/CameraController.cs: 8e751b4971e7eade8101031695d810d5 -> aec47e38b39d8189645743359554ec01
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/ThirdPersonCamera.cs: f37302e2a4ffce4a1ce32e6a1179ee5e -> 89540b84413d3214a0393df626fc7e4d
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/CreateLocatorHere.cs: 2dbcc4bdf7bee4c4e6b63af51f1aaa17 -> 098e9e1de058b87e40168482a0f4c62f
+========================================================================
+Received Import Request.
+  Time since last request: 64.844276 seconds.
+  path: Assets/Unity-chan! Model/Editor
+  artifactKey: Guid(0ed7722d085f04820ba89e8fb4d451a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity-chan! Model/Editor using Guid(0ed7722d085f04820ba89e8fb4d451a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '6f007d387f186915a0f7aade6a02c846') in 0.006331 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 20.626545 seconds.
+  path: Assets/Unity-chan! Model/Prefabs/for Locomotion/unitychan.prefab
+  artifactKey: Guid(40046bae76ac54bffb59f14f47d9ba1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity-chan! Model/Prefabs/for Locomotion/unitychan.prefab using Guid(40046bae76ac54bffb59f14f47d9ba1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'd6d089ce6e21f5d5700358f5fe8da535') in 0.910971 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 541
+========================================================================
+Received Import Request.
+  Time since last request: 6.323890 seconds.
+  path: Assets/Unity-chan! Model/Scenes/ARPoseTest.unity
+  artifactKey: Guid(dc19d125674d55e4395fbb75f6d6f855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity-chan! Model/Scenes/ARPoseTest.unity using Guid(dc19d125674d55e4395fbb75f6d6f855) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'cfc9d25b96486fed9b3313e47f242add') in 0.000853 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 3.671559 seconds.
+  path: Assets/Unity-chan! Model/Scenes/Locomotion.unity
+  artifactKey: Guid(957eefe92df624143ad9333b8bc01eb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity-chan! Model/Scenes/Locomotion.unity using Guid(957eefe92df624143ad9333b8bc01eb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'd3bf4c1e4926fa2cc4e825dd5c78d6a7') in 0.000530 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.443226 seconds.
+  path: Assets/Unity-chan! Model/Scenes/SecondaryAnimation.unity
+  artifactKey: Guid(303d6058a98f643abb202d652ad2be31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity-chan! Model/Scenes/SecondaryAnimation.unity using Guid(303d6058a98f643abb202d652ad2be31) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '2916756e0f33b09c9b3b84615db726ce') in 0.000539 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.646263 seconds.
+  path: Assets/Unity-chan! Model/Scenes/ActionCheck.unity
+  artifactKey: Guid(82af19ed76a8ed74fb1dd5d45c780da8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity-chan! Model/Scenes/ActionCheck.unity using Guid(82af19ed76a8ed74fb1dd5d45c780da8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '8b2d24894124ab299e0008fd104d7834') in 0.000534 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.520 seconds
+Refreshing native plugins compatible for Editor in 4.79 ms, found 3 plugins.
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Failed to load: C:/Program Files/Unity/Hub/Editor/2022.3.32f1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
+Native extension for VisionOS target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.797 seconds
+Domain Reload Profiling: 2315ms
+	BeginReloadAssembly (201ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (30ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (55ms)
+	RebuildCommonClasses (28ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (254ms)
+		LoadAssemblies (308ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (25ms)
+			TypeCache.Refresh (12ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1797ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (494ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (49ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (67ms)
+			ProcessInitializeOnLoadAttributes (343ms)
+			ProcessInitializeOnLoadMethodAttributes (27ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (53ms)
+Refreshing native plugins compatible for Editor in 5.36 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5902 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 73 unused Assets / (3.6 MB). Loaded Objects now: 6972.
+Memory consumption went from 256.7 MB to 253.1 MB.
+Total: 5.157300 ms (FindLiveObjects: 0.543300 ms CreateObjectMapping: 0.165900 ms MarkObjects: 3.698700 ms  DeleteObjects: 0.747900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/UnityChanControlScriptWithRgidBody.cs: e6ad178b4f24d3fb6df560f63a9af963 -> e6270e628b445f45f3b5d2688e9f7023
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/SplashScreen.cs: 4f15bdeda5786e36b26ec9f1ee28d049 -> 0755d608089cbc7d0e953ccbc748a0c5
+  custom:scripting/monoscript/fileName/SpringManager.cs: 63fae3f257b6da23647eb30a46508886 -> da39798abae1af426996aad29ffd5776
+  custom:scripting/monoscript/fileName/IdleChanger.cs: d7ff7cacbc969432e0ab5d0a90b33d30 -> 0d42658b2b153f87462fd4e5e96a13ee
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/SpringBone.cs: dbd48510a58b6cedaa07b1e00b932e85 -> c42174da46e34ca23f01039571bd21a7
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/SpringCollider.cs: 1aaeb07b34dddf2d3419a09c4f27fa99 -> b95717af7a1b7c4f1cedbda2e4581451
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/RandomWind.cs: 940d706628800ba0016ad2dda173d059 -> 2f8fa34249abdeb18b156658f50cf6b0
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/AutoBlink.cs: 80cab70de5be63762aa7ba69af305dea -> c4896b0bc763e45116fcb71524820395
+  custom:scripting/monoscript/fileName/IKCtrlRightHand.cs: 39509998bd9a5b13b4e2590ad828f9fa -> af5a857eb9c61b41538bf9623698a2d1
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/FaceUpdate.cs: 23603e6fd54448a03c5b0e5bc0ec0eaa -> 936c881d460b8437fb80f048d1ed5d71
+  custom:scripting/monoscript/fileName/CameraController.cs: 8e751b4971e7eade8101031695d810d5 -> aec47e38b39d8189645743359554ec01
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/ThirdPersonCamera.cs: f37302e2a4ffce4a1ce32e6a1179ee5e -> 89540b84413d3214a0393df626fc7e4d
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/CreateLocatorHere.cs: 2dbcc4bdf7bee4c4e6b63af51f1aaa17 -> 098e9e1de058b87e40168482a0f4c62f
+========================================================================
+Received Import Request.
+  Time since last request: 130.778107 seconds.
+  path: Assets/Unity-chan! Model/Art
+  artifactKey: Guid(defce7c728fb01d49a7a7e9205dbde77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity-chan! Model/Art using Guid(defce7c728fb01d49a7a7e9205dbde77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '32bd1f3c5a5c9bd4a6f66ca631a44a10') in 0.007916 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.175092 seconds.
+  path: Assets/Unity-chan! Model/Art/Materials
+  artifactKey: Guid(711fff8ed805d4669bb1be75a0fed3d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity-chan! Model/Art/Materials using Guid(711fff8ed805d4669bb1be75a0fed3d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '0f6caacc8ee834f7aee5e2e1e5a96cb2') in 0.000552 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.062318 seconds.
+  path: Assets/Unity-chan! Model/Art/Materials/body.mat
+  artifactKey: Guid(bb570020a8c3bad4bbf803af20e78937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity-chan! Model/Art/Materials/body.mat using Guid(bb570020a8c3bad4bbf803af20e78937) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '6fb36d0757be3f5df5ee56fcbc45cd37') in 0.728599 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 58
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Unity-chan! Model/Art/Materials/eyeline.mat
+  artifactKey: Guid(407f97b032a277c44b753ed1c256a3b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity-chan! Model/Art/Materials/eyeline.mat using Guid(407f97b032a277c44b753ed1c256a3b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '999141719120d54095664cbceba62f32') in 0.011823 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Unity-chan! Model/Art/Materials/eyebase.mat
+  artifactKey: Guid(9bec51fc47eda6047ba5cc01addbf46f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity-chan! Model/Art/Materials/eyebase.mat using Guid(9bec51fc47eda6047ba5cc01addbf46f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '4db716c39c8a003866b99925e438e53d') in 0.012014 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Unity-chan! Model/Art/Materials/Right.mat
+  artifactKey: Guid(88157e674d7d0314db76940c73b69405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity-chan! Model/Art/Materials/Right.mat using Guid(88157e674d7d0314db76940c73b69405) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'c0cb3eb0ea7d37906f652ecf8fd09f29') in 0.010704 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Unity-chan! Model/Art/Materials/eye_R1.mat
+  artifactKey: Guid(a87def7cf3654cc43add52e645fee2ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity-chan! Model/Art/Materials/eye_R1.mat using Guid(a87def7cf3654cc43add52e645fee2ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'dc98263b1b4c43d49da09bff840fa779') in 0.011434 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Unity-chan! Model/Art/Materials/skin1.mat
+  artifactKey: Guid(ca131910d5c9a634dbdd38e77111033f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity-chan! Model/Art/Materials/skin1.mat using Guid(ca131910d5c9a634dbdd38e77111033f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '86b2f6ab2dd4b42221171d0be14c0b50') in 0.011674 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 1.946291 seconds.
+  path: Assets/Unity-chan! Model/Art/UnityChanShader/Texture/body_01.tga
+  artifactKey: Guid(f9c6074c5a78e71448f9efd3013cadda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity-chan! Model/Art/UnityChanShader/Texture/body_01.tga using Guid(f9c6074c5a78e71448f9efd3013cadda) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'ab0f3bdecf3c3775692f32b5a75ad2c1') in 0.017545 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.138111 seconds.
+  path: Assets/Unity-chan! Model/Art/UnityChanShader/Texture/FO_CLOTH1.tga
+  artifactKey: Guid(cc8f70f2ec571e9478efa98c041cde7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity-chan! Model/Art/UnityChanShader/Texture/FO_CLOTH1.tga using Guid(cc8f70f2ec571e9478efa98c041cde7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '2e5b554d488e1d9fc8e4eaea742ea0d2') in 0.006743 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Unity-chan! Model/Art/UnityChanShader/Texture/body_01_NRM.tga
+  artifactKey: Guid(3a3c0acc807e9264ca0b32602a928a9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity-chan! Model/Art/UnityChanShader/Texture/body_01_NRM.tga using Guid(3a3c0acc807e9264ca0b32602a928a9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '0787f21ef51c27833a5fb619f2fcda0a') in 0.007222 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Unity-chan! Model/Art/UnityChanShader/Texture/body_01_SPEC.tga
+  artifactKey: Guid(7ae1142e9b3a72048960dd9561e0e0d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity-chan! Model/Art/UnityChanShader/Texture/body_01_SPEC.tga using Guid(7ae1142e9b3a72048960dd9561e0e0d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'aad09f421a75e94132366a3e47c3241e') in 0.006812 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
